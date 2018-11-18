@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-Heading Bank
-<<<<<<< HEAD
-Bank Server Programme
-=======
-abc
->>>>>>> b3a62166280739c72c52c36f3d6e1c72bc35a3db
-=======
-Bank
->>>>>>> d6b198bd082998d45535bd3db03bcd2a25c7538d
-Bankkk
+Sample structure for the program
